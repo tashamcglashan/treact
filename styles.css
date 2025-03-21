@@ -196,6 +196,11 @@ p {
     justify-content: flex-end;
 }
 
+.header__title__and--image{
+    display:flex;
+    justify-content: flex-end;
+}
+
 img{
     width:100%;
 }
